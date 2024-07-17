@@ -1,4 +1,5 @@
 import collections
+from kivy.core.window._window_sdl2 import _WindowSDL2Storage
 from kivy.lang import Builder
 from kivy.app import App
 from kivy.uix.gridlayout import GridLayout
